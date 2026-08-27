@@ -23,8 +23,8 @@
 ## 🧑‍💻 Sobre mí
 
 <p align="center">
-  💻 <b>Estudiante de Ingeniería de Software (UTP)</b> · Apasionado por crear productos digitales de alto impacto.<br/>
-  🎨 <b>Enfocado en desarrollo Frontend moderno con UI/UX intuitivo y funcional.</b><br/>
-  🤖 <b>Integrando Inteligencia Artificial en workflows y soluciones web.</b><br/>
-  🌟 <b>Lenguajes principales:</b> Java, JavaScript, HTML5, CSS3.
-</p>
+  💻 <b>Ingeniería de Software</b> | Especialista en Desarrollo Web Frontend & Soluciones IA<br/>
+  🎨 <b>Diseño e Implementación de Interfaces UI/UX</b> · Desarrollo de productos digitales intuitivos, escalables y orientados a la experiencia de usuario.<br/>
+  🤖 <b>Arquitectura de Agentes IA & Automatización Digital</b> · Integración de inteligencia artificial y desarrollo de software a medida.<br/>
+  🥊 <b>Intereses & Core Disciplines:</b> MMA · Gaming · Basketball · Poker
+  </p>
