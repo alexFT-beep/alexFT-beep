@@ -1,11 +1,11 @@
 # 🐈‍⬛ Que tal?, soy Alex.
 
-### `Estudiante de ingeniería de Software` · `Arquitectura Web'Frontend` · `UI/UX` · `IA` ·  `Fronted`
+### `Estudiante de Ingeniería de Software` · `Arquitectura Web` · `Frontend` · `UI/UX` · `IA`
 
 > Creando experiencias digitales donde **Código × Diseño × IA** se encuentran.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F2E,100:7B2CFF&height=220&section=header&text=Alex&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Código%20%C2%B7%20Diseño%20%C2%B7%20IA&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F2E,100:7B2CFF&height=220&section=header&text=Alex&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=C%C3%B3digo%20%C2%B7%20Dise%C3%B1o%20%C2%B7%20IA&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
@@ -28,11 +28,3 @@
   🤖 <b>Integrando Inteligencia Artificial en workflows y soluciones web.</b><br/>
   🌟 <b>Lenguajes principales:</b> Java, JavaScript, HTML5, CSS3.
 </p>
-╭──────────────────────────────────────────────╮
-│                                              │
-│   💻 Código       🎨 Diseño          🤖 IA   │
-│       \               |               /      │
-│        \              |              /       │
-│         ───── Experiencias Digitales ────    │
-│                                              │
-╰──────────────────────────────────────────────╯
