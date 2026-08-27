@@ -96,28 +96,36 @@
 
 <br/>
 
-<ul align="left" style="display: inline-block; text-align: left;">
-  <li>
-    🌐 <b>Página Web de MyWebSite Agency</b> &nbsp;&nbsp;
-    <a href="https://mywebsite-agency.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/VER_AQUÍ-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver MyWebSite Agency" />
-    </a>
-  </li>
-  <br/>
-  <li>
-    🍹 <b>Página Web & Carta Digital de Weeknd! Huarmey</b> &nbsp;&nbsp;
-    <a href="https://weeknd-huarmey.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/VER_AQUÍ-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Weeknd Huarmey" />
-    </a>
-  </li>
-  <br/>
-  <li>
-    🏋️ <b>Landing Page de Premium Gym</b> &nbsp;&nbsp;
-    <a href="https://premiumgym-huarmey.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/VER_AQUÍ-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Premium Gym" />
-    </a>
-  </li>
-</ul>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="left">
+        <ul>
+          <li>
+            🌐 <b>Página Web de MyWebSite Agency</b> &nbsp;&nbsp;
+            <a href="https://mywebsite-agency.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/VER_AQUÍ-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver MyWebSite Agency" />
+            </a>
+          </li>
+          <br/>
+          <li>
+            🍹 <b>Página Web & Carta Digital de Weeknd! Huarmey</b> &nbsp;&nbsp;
+            <a href="https://weeknd-huarmey.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/VER_AQUÍ-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Weeknd Huarmey" />
+            </a>
+          </li>
+          <br/>
+          <li>
+            🏋️ <b>Landing Page de Premium Gym</b> &nbsp;&nbsp;
+            <a href="https://premiumgym-huarmey.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/VER_AQUÍ-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Premium Gym" />
+            </a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -128,8 +136,8 @@
 <br/>
 
 <p>
-  <a href="https://github.com/alexFT-beep" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:Alberto900957415@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/lil444lexx?igsi=MW5kazk1M3hwZ2Q5Ng==" target="_blank">
     <img src="https://img.shields.io/badge/LIL444LEXX-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
@@ -137,15 +145,6 @@
 </p>
 
 <br/><br/>
-
-<h3>⚡ Construyendo experiencias digitales con</h3>
-<h2><b>CÓDIGO × DISEÑO × IA</b></h2>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,100:B026FF&height=120&section=footer"/>
-
-</div>
 
 <h3>⚡ Construyendo experiencias digitales con</h3>
 <h2><b>CÓDIGO × DISEÑO × IA</b></h2>
