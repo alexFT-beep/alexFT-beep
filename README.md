@@ -24,7 +24,7 @@
 
 <p align="center">
   💻 <b>Ingeniería de Software</b> | Especialista en Desarrollo Web Frontend & Soluciones IA<br/>
-  🎨 <b>Diseño e Implementación de Interfaces UI/UX</b> · Desarrollo de productos digitales intuitivos, escalables y orientados a la experiencia de usuario.<br/>
-  🤖 <b>Arquitectura de Agentes IA & Automatización Digital</b> · Integración de inteligencia artificial y desarrollo de software a medida.<br/>
+  🎨 <b>UI/UX & Frontend:</b> Interfaces intuitivas, escalables y orientadas a la experiencia de usuario.<br/>
+  🤖 <b>Agentes IA & Soluciones Web:</b> Automatización e integración de IA con software a medida.
   🥊 <b>Intereses & Core Disciplines:</b> MMA · Gaming · Basketball · Poker
   </p>
