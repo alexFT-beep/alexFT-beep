@@ -22,13 +22,12 @@
 
 ## 🧑‍💻 Sobre mí
 
-🎓 **Estudiante de Ingeniería de Software en la UTP**
-
-Me apasiona transformar ideas en **productos digitales modernos**, combinando desarrollo, diseño e inteligencia artificial.
-
-Disfruto crear interfaces que no solo sean visualmente atractivas, sino también **funcionales, escalables y enfocadas en resolver problemas reales**.
-
-```text
+<p align="center">
+  💻 <b>Estudiante de Ingeniería de Software (UTP)</b> · Apasionado por crear productos digitales de alto impacto.<br/>
+  🎨 <b>Enfocado en desarrollo Frontend moderno con UI/UX intuitivo y funcional.</b><br/>
+  🤖 <b>Integrando Inteligencia Artificial en workflows y soluciones web.</b><br/>
+  🌟 <b>Lenguajes principales:</b> Java, JavaScript, HTML5, CSS3.
+</p>
 ╭──────────────────────────────────────────────╮
 │                                              │
 │   💻 Código       🎨 Diseño          🤖 IA   │
