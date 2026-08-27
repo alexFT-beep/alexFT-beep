@@ -20,11 +20,11 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
-
-<ul style="text-align: left;">
-  <li>💻 <b>Ingeniería de Software</b> | Especialista en Desarrollo Web Frontend & Soluciones IA</li>
-  <li>🎨 <b>UI/UX & Frontend:</b> Interfaces intuitivas, escalables y orientadas a la experiencia de usuario.</li>
-  <li>🤖 <b>Agentes IA & Soluciones Web:</b> Automatización e integración de IA con software a medida.</li>
-  <li>🥊 <b>Intereses & Core Disciplines:</b> MMA · Gaming · Basketball · Poker</li>
-</ul>
+<<div align="center">
+  <hr width="100%" />
+  <h2>🧑‍💻 Sobre mí</h2>
+  <p>💻 <b>Ingeniería de Software</b> | Especialista en Desarrollo Web Frontend & Soluciones IA</p>
+  <p>🎨 <b>UI/UX & Frontend:</b> Interfaces intuitivas, escalables y orientadas a la experiencia de usuario.</p>
+  <p>🤖 <b>Agentes IA & Soluciones Web:</b> Automatización e integración de IA con software a medida.</p>
+  <p>🥊 <b>Intereses & Core Disciplines:</b> MMA · Gaming · Basketball · Poker</p>
+</div>
