@@ -96,11 +96,26 @@
 
 <br/>
 
-<a href="https://github.com/alexFT-beep/Weeknd_HY" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexFT-beep&repo=Weeknd_HY&theme=tokyonight&hide_border=true" alt="Weeknd_HY Repository" />
-</a>
+<p>
+  🌐 <b>Página Web de MyWebSite Agency</b> &nbsp;&nbsp;
+  <a href="https://mywebsite-agency.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_AQUÍ-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver MyWebSite Agency" />
+  </a>
+</p>
 
-<p><sub>🚧 Más proyectos próximamente...</sub></p>
+<p>
+  🍹 <b>Página Web & Carta Digital de Weeknd! Huarmey</b> &nbsp;&nbsp;
+  <a href="https://weeknd-huarmey.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_AQUÍ-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Weeknd Huarmey" />
+  </a>
+</p>
+
+<p>
+  🏋️ <b>Landing Page de Premium Gym</b> &nbsp;&nbsp;
+  <a href="https://premiumgym-huarmey.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_AQUÍ-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Premium Gym" />
+  </a>
+</p>
 
 <br/>
 
@@ -129,12 +144,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,100:B026FF&height=120&section=footer"/>
 
 </div>
-
-<h2>🚀 Lo que construyo</h2>
-
-<p>No solo escribo código: construyo <b>experiencias digitales y soluciones enfocadas en problemas reales.</b></p>
-
-<br/>
-
-```text
-💡 IDEA  ➜  🎨 EXPERIENCIA  ➜  💻 CÓDIGO  ➜  🤖 IA  ➜  ⚡ PRODUCTO DIGITAL
