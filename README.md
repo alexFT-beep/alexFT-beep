@@ -1,6 +1,6 @@
 # 🐈‍⬛ Que tal?, soy Alex.
 
-### `Ingeniero de Software en formación` · `Frontend` · `UI/UX` · `IA`
+### `Estudiante de ingeniería de Software` · `Arquitectura Web'Frontend` · `UI/UX` · `IA` ·  `Fronted`
 
 > Creando experiencias digitales donde **Código × Diseño × IA** se encuentran.
 
