@@ -96,26 +96,28 @@
 
 <br/>
 
-<p>
-  🌐 <b>Página Web de MyWebSite Agency</b> &nbsp;&nbsp;
-  <a href="https://mywebsite-agency.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VER_AQUÍ-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver MyWebSite Agency" />
-  </a>
-</p>
-
-<p>
-  🍹 <b>Página Web & Carta Digital de Weeknd! Huarmey</b> &nbsp;&nbsp;
-  <a href="https://weeknd-huarmey.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VER_AQUÍ-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Weeknd Huarmey" />
-  </a>
-</p>
-
-<p>
-  🏋️ <b>Landing Page de Premium Gym</b> &nbsp;&nbsp;
-  <a href="https://premiumgym-huarmey.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VER_AQUÍ-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Premium Gym" />
-  </a>
-</p>
+<ul align="left" style="display: inline-block; text-align: left;">
+  <li>
+    🌐 <b>Página Web de MyWebSite Agency</b> &nbsp;&nbsp;
+    <a href="https://mywebsite-agency.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/VER_AQUÍ-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver MyWebSite Agency" />
+    </a>
+  </li>
+  <br/>
+  <li>
+    🍹 <b>Página Web & Carta Digital de Weeknd! Huarmey</b> &nbsp;&nbsp;
+    <a href="https://weeknd-huarmey.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/VER_AQUÍ-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Weeknd Huarmey" />
+    </a>
+  </li>
+  <br/>
+  <li>
+    🏋️ <b>Landing Page de Premium Gym</b> &nbsp;&nbsp;
+    <a href="https://premiumgym-huarmey.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/VER_AQUÍ-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Premium Gym" />
+    </a>
+  </li>
+</ul>
 
 <br/>
 
@@ -135,6 +137,15 @@
 </p>
 
 <br/><br/>
+
+<h3>⚡ Construyendo experiencias digitales con</h3>
+<h2><b>CÓDIGO × DISEÑO × IA</b></h2>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,100:B026FF&height=120&section=footer"/>
+
+</div>
 
 <h3>⚡ Construyendo experiencias digitales con</h3>
 <h2><b>CÓDIGO × DISEÑO × IA</b></h2>
