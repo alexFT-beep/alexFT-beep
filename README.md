@@ -2,7 +2,7 @@
 
 # 🐈‍⬛ Que tal?, soy Alex.
 
-### `Ingeniero de Software en formación` · `Frontend` · `UI/UX` · `IA`
+### `Estudiante de Ing. Software` · `Frontend` · `UI/UX` · `IA`· `Arquitectura web`
 
 > Creando experiencias digitales donde **Código × Diseño × IA** se encuentran.
 
