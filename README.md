@@ -12,11 +12,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Desarrollador+Frontend+%E2%9A%A1;Apasionado+por+UI%2FUX+%F0%9F%8E%A8;Construyendo+con+IA+%F0%9F%A4%96;Convirtiendo+Ideas+en+Productos+Digitales+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Desarrollador+Frontend+%E2%9A%A1;Apasionado+por+UI%2FUX+%F0%9F%8E%A8;Construyendo+con+IA+%F0%9F%A4%96;Convirtiendo+Ideas+en+Productos+Digitales+%F0%9F%9A%80" />
 
 ---
 
 <h2>🧑‍💻 Sobre mí</h2>
+
+<p>
+  <a href="https://www.instagram.com/lil444lexx?igsi=MW5kazk1M3hwZ2Q5Ng==" target="_blank">
+    <img src="https://img.shields.io/badge/LIL444LEXX-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+</p>
 
 <p>💻 <b>Ingeniería de Software</b> | Especialista en Desarrollo Web Frontend & Soluciones IA</p>
 <p>🎨 <b>UI/UX & Frontend:</b> Interfaces intuitivas, escalables y orientadas a la experiencia de usuario.</p>
@@ -57,6 +63,7 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Vector_DBs-4A154B?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
@@ -85,6 +92,14 @@
 
 ---
 
+<h2>🚀 Lo que construyo</h2>
+
+<p>No solo escribo código: construyo <b>experiencias digitales y soluciones enfocadas en problemas reales.</b></p>
+
+<br/>
+
+```text
+💡 IDEA  ➜  🎨 EXPERIENCIA  ➜  💻 CÓDIGO  ➜  🤖 IA  ➜  ⚡ PRODUCTO DIGITAL
 <h2>🚀 Lo que construyo</h2>
 
 <p>No solo escribo código: construyo <b>experiencias digitales y soluciones enfocadas en problemas reales.</b></p>
