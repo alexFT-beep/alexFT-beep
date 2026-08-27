@@ -92,52 +92,15 @@
 
 ---
 
-<h2>🚀 Lo que construyo</h2>
-
-<p>No solo escribo código: construyo <b>experiencias digitales y soluciones enfocadas en problemas reales.</b></p>
-
-<br/>
-
-<p><b>ARQUITECTURA WEB</b></p>
-
-<p>
-  <code>💡 PROBLEMÁTICA</code> ➔ <code>📊 ANÁLISIS</code> ➔ <code>💻 CÓDIGO</code> ➔ <code>🤖 IA</code> ➔ <code>⚡ PRODUCTO/SOLUCIÓN DIGITAL</code>
-</p>
-
-<br/>
-
-<p><b>Modernos · Funcionales · Escalables · Útiles</b></p>
-
-<br/>
-
----
-
 <h2>📂 Proyectos destacados</h2>
 
 <br/>
 
-<a href="https://github.com/alexFT-beep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexFT-beep&repo=Weeknd_HY&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/alexFT-beep/Weeknd_HY" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexFT-beep&repo=Weeknd_HY&theme=tokyonight&hide_border=true" alt="Weeknd_HY Repository" />
 </a>
 
 <p><sub>🚧 Más proyectos próximamente...</sub></p>
-
-<br/>
-
----
-
-<h2>📊 Estadísticas de GitHub</h2>
-
-<br/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexFT-beep&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexFT-beep&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=alexFT-beep&theme=tokyonight&hide_border=true" />
-</p>
 
 <br/>
 
