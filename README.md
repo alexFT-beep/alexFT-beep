@@ -18,7 +18,6 @@
   </a>
 </p>
 
----
 
 <<div align="center">
   <hr width="100%" />
